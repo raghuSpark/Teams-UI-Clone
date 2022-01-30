@@ -1,3 +1,6 @@
+# This is the Teams UI cloned using React JS
+![Screenshot from 2022-01-30 15-43-49](https://user-images.githubusercontent.com/60544216/151695667-f054d863-2b31-4f67-b417-bae555f287a8.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
